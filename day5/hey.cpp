@@ -8,7 +8,7 @@ int fun (int i)
 
 int main()
 {
-  cout<<fun(200);
+  cout<<fun(2000);
   return 0;
 
 }
